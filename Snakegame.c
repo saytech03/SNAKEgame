@@ -1,4 +1,4 @@
-include<stdio.h>
+#include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
 int width=20,height=20;
